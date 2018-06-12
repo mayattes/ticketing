@@ -1,0 +1,33 @@
+/* .id {
+   border: solid 1px gray; 
+
+}
+
+.manuel {
+    background-color: blue;
+    color: white
+}
+
+dl {
+    border: solid 1px gray
+}
+
+dt {
+    background-color: rgb(19, 185, 160);
+
+    border: solid 1px gray
+}
+dd {
+    margin-left: 80px;
+    height: 50px;
+} */
+
+input {
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    cursor: pointer
+}
+select {
+    cursor: pointer
+}

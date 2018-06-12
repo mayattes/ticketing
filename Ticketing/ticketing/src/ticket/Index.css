@@ -1,0 +1,63 @@
+body {
+    padding: 10px;
+}
+
+.container {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 50px;
+    flex: 1px;
+    justify-content: center;
+    align-items: center;
+}
+.bloc {
+    
+    margin: 20px;
+    height: 50px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px
+}
+thead {
+    border-radius: 20px;
+}
+
+.table {
+    width: 1250px;
+    border-radius: 10px;
+    padding: 10px;
+    border: solid 1px gray
+}
+
+.table1 {
+    border-bottom: 10px;
+    height: 50px;
+    cursor: pointer;
+    background-color: hsl(43, 84%, 44%);
+    color: #7b5103;
+    border: solid 1px rgb(137, 177, 17);
+    
+}
+
+.table2 {
+    color: gray;
+    cursor: pointer;
+    border: solid 1px gray
+}
+
+.table {
+    border: solid 1px gray
+}
+
+.auto .manuel {
+    align-items: center;
+    justify-content: center
+}
+
+button {
+    align-items: center;
+    justify-content: center
+}
